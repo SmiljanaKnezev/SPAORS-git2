@@ -1,3 +1,7 @@
 Zdravo, Petre!
 Zdravo i tebi !
+<<<<<<< HEAD
 Zdraco, Nsfdaikasffdssdffdsf
+=======
+Zdraco, Nsdfikpjho gp6 tf!
+>>>>>>> bogdan-markovic-test-grana
